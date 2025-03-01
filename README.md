@@ -1,6 +1,6 @@
 # Repository for UBC CPSC_V 203 PrairieLearn Tests
 
-This repository contains code used in UBC's CPSC_V 203 course for a PrairieLearn-based practice test.
+This repository contains code used in UBC's CPSC_V 203 course for a PrairieLearn-based practice test.  It almost certainly will not make sense without access to the corresponding test questions in PrairieLearn.
 
 You can use this repository in one of two ways:
 - You can clone it directly using the standard Git procedure.  In that case you **will not** be able to push your edits back up to this repository (you only have read access to this repository).
